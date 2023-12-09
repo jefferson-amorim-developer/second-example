@@ -1,13 +1,1 @@
-This is some content to mess up with later
-
-
-as
-d
-asd
-as
-d
-asd
-as
-da
-sd
-asd
+Override the content of file4.txt
